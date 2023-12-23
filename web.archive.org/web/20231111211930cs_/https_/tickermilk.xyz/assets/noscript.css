@@ -1,0 +1,39 @@
+body {
+	overflow: auto !important;
+}
+
+body:after {
+	display: none !important;
+}
+
+#main > .inner {
+	opacity: 1.0 !important;
+}
+
+#main > .inner > section {
+	opacity: 1.0 !important;
+	transform: none !important;
+	transition: none !important;
+	filter: none !important;
+}
+/*
+     FILE ARCHIVED ON 21:19:30 Nov 11, 2023 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 14:19:09 Dec 23, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 181.478
+  exclusion.robots: 0.107
+  exclusion.robots.policy: 0.096
+  cdx.remote: 0.069
+  esindex: 0.01
+  LoadShardBlock: 146.312 (3)
+  PetaboxLoader3.datanode: 131.888 (7)
+  PetaboxLoader3.resolve: 129.358 (2)
+  load_resource: 157.806
+  loaddict: 49.656
+*/
